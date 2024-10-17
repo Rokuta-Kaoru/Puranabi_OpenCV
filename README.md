@@ -1,1 +1,1 @@
-# PuranabiのOpenCV部分でっせ
+# ぷらなびのOpenCV部分でっせ
